@@ -1,0 +1,27 @@
+{
+  "name": "canvas_painting",
+  "version": "1.0.0",
+  "description": "canvas_painting",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/De-lovelyhhh/canvas.git"
+  },
+  "bugs": {
+    "url": "https://github.com/De-lovelyhhh/canvas/issues"
+  },
+  "homepage": "https://github.com/De-lovelyhhh/canvas#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.17.2",
+    "eslint-plugin-node": "^8.0.1",
+    "eslint-plugin-promise": "^4.1.1",
+    "eslint-plugin-standard": "^4.0.0"
+  }
+}
